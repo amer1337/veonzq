@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veonzq
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS & JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me veonzq@gmail.com
+- 👀 I’m interested in C# Development
+- 🌱 I’m currently learning OOP in C#
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me amer.delic1337@gmail.com
 
